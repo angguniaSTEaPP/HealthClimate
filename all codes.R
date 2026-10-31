@@ -19,14 +19,13 @@ EXPECTED_CANONICAL_TERMS <- 100L
 
 keyword_file <- file.path("Keywords_Excel_27.08.xlsx")
 pdf_dir <- file.path(
-  "Data Set", "body_only_pdf", "body_only_pdfs"
+  "Dataset", "body_only_pdf", "body_only_pdfs"
 )
 metadata_file <- file.path(
-  "Data Set", "NDC Report.xlsx"
+  "Dataset", "NDC Report.xlsx"
 )
 output_dir <- file.path(
-  #  project_dir,
-  paste0(format(Sys.time(), "%Y-%m-%d_%H%M%S"), "_body_only_keyword_analysis")
+  "Output"
 )
 
 required_packages <- c(
