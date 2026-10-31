@@ -1,0 +1,102 @@
+country,country_key,pdf_file,region,income_level,report_word_count,keyword_count,keyword_percentage,rank_percentage,rank_count,iso3
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,72,1.4478182183792478,1,73,YEM
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,167,1.179628452355725,2,21,MDV
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,220,1.1303498946719417,3,13,FSM
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,229,1.12492017487842,4,12,ARM
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,264,1.1023885084349423,5,9,NRU
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,204,1.0575427682737168,6,17,QAT
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,92,0.9687269664104454,7,38,TUV
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,233,0.9655629687953255,8,11,LBN
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,121,0.9503612943763745,9,29,NIU
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,156,0.910948905109489,10,24,CPV
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,589,0.9000198646150085,11,1,KHM
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,120,0.8943877170753521,12,31,PAK
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,210,0.8916818818733812,13,16,STP
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,107,0.8870834024208257,14,36,SWZ
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,507,0.8662816525988449,15,2,LKA
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,173,0.860482467047998,16,19,LBR
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,35,0.8472524812394093,17,84,JPN
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,211,0.8447095560270628,18,14,BGD
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,168,0.8372371175122097,19,20,MUS
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,160,0.8046266029670606,20,22,BRB
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,109,0.8019423190111831,21,35,AUS
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,142,0.7904698285459808,22,26,SOM
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,91,0.7893139040680024,23,66,ZMB
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,38,0.7882182119892138,24,83,SRB
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,76,0.7851239669421488,25,72,ETH
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,66,0.7850600689901273,26,75,LCA
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,261,0.7801990852838311,27,10,AGO
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,54,0.7670454545454546,28,76,BHR
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,89,0.7543651466350229,29,67,BTN
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,15,0.7458975634012929,30,96,TUN
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,195,0.7414166761720087,31,18,AZE
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,403,0.737419945105215,32,4,SLE
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,322,0.7229294358007229,33,5,MDA
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,94,0.6934198878725287,34,37,MHL
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,136,0.6930995821017225,35,27,GBR
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,211,0.6885524083017883,36,14,RWA
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,116,0.6769769477677269,37,34,ZAF
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,302,0.6737161468790435,38,8,BHS
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,441,0.6707938487747745,39,3,VUT
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,86,0.6671321076720192,40,68,NPL
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,159,0.6607105755246209,41,23,FJI
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,83,0.6222355498912961,42,69,VCT
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,143,0.6182447038478167,43,25,NGA
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,44,0.6100942872989462,44,79,CHE
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,24,0.5923000987166831,45,88,JOR
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,41,0.5903527717782577,46,81,KOR
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,45,0.5662514156285391,47,78,SAU
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,120,0.548646671543526,48,31,PLW
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,92,0.5482717520858165,49,38,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,92,0.5482717520858165,49,38,SWE
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,44,0.539546290619252,76,79,ZWE
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,22,0.535801266439357,77,89,MYS
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,15,0.5355230274901821,78,96,VAT
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,121,0.5338392305656049,79,29,TON
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,320,0.5294244163923035,80,6,SUR
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,131,0.5183807526413676,81,28,BLZ
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,77,0.5158437730287398,82,71,SLB
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,78,0.5063948581445173,83,70,IDN
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,303,0.4979539515850712,84,7,CAN
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,70,0.4969120465677575,85,74,MNG
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,49,0.4388321690847215,86,77,KEN
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,26,0.4042917120199036,87,87,TTO
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,27,0.3999407495185898,88,86,TUR
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,41,0.38285554206741995,89,81,WSM
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,118,0.374234879959405,90,33,LSO
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,18,0.37228541882109617,91,91,NOR
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,22,0.33572409583396917,92,89,SGP
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,18,0.333889816360601,93,91,MNE
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,16,0.3256665988194586,94,94,LIE
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,15,0.31023784901758017,95,96,THA
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,31,0.3096903096903097,96,85,SYC
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,17,0.25177725118483413,97,93,NZL
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,16,0.24509803921568626,98,94,MOZ
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,14,0.22229279136233726,99,99,JAM
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,14,0.21478981282602025,100,99,BRN
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,9,0.20134228187919462,101,101,ISL

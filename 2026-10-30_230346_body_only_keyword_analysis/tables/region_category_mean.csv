@@ -1,0 +1,57 @@
+region,level,category,n_countries,mean_keyword_count,mean_keyword_percentage
+East Asia & Pacific,LEVEL 1,General Health & Wellbeing,22,31.772727272727273,0.12131421567697007
+East Asia & Pacific,LEVEL 1,Health Conditions & Health Burden,22,11.545454545454545,0.03498989862141249
+East Asia & Pacific,LEVEL 1,Health Systems,22,2.1818181818181817,0.00676850250635303
+East Asia & Pacific,LEVEL 1,Major Health Events,22,2.0454545454545454,0.013084492796871674
+East Asia & Pacific,LEVEL 1,Mental Health,22,1.0454545454545454,0.0032312865423594814
+East Asia & Pacific,LEVEL 1,Nutrition & Food Security,22,1.1363636363636365,0.003937396259806435
+East Asia & Pacific,LEVEL 2,Exposures / Pathways,22,43.36363636363637,0.23227429228491184
+East Asia & Pacific,LEVEL 2,Hazard Terms,22,32.45454545454545,0.21845177030807922
+Europe & Central Asia,LEVEL 1,General Health & Wellbeing,38,11.078947368421053,0.060247858439611494
+Europe & Central Asia,LEVEL 1,Health Conditions & Health Burden,38,3.5,0.018309594360933133
+Europe & Central Asia,LEVEL 1,Health Systems,38,0.3684210526315789,0.0013886646374136173
+Europe & Central Asia,LEVEL 1,Major Health Events,38,2.1578947368421053,0.01274969354884948
+Europe & Central Asia,LEVEL 1,Mental Health,38,0.15789473684210525,7.054394300562814e-4
+Europe & Central Asia,LEVEL 1,Nutrition & Food Security,38,0.05263157894736842,1.5913840190297132e-4
+Europe & Central Asia,LEVEL 2,Exposures / Pathways,38,49.71052631578947,0.2872157881542542
+Europe & Central Asia,LEVEL 2,Hazard Terms,38,24,0.1746025550101732
+Latin America & Caribbean,LEVEL 1,General Health & Wellbeing,8,38.875,0.11336753017902494
+Latin America & Caribbean,LEVEL 1,Health Conditions & Health Burden,8,4,0.013974228587845796
+Latin America & Caribbean,LEVEL 1,Health Systems,8,3.625,0.011097851779217939
+Latin America & Caribbean,LEVEL 1,Major Health Events,8,7.125,0.042293222086171534
+Latin America & Caribbean,LEVEL 1,Mental Health,8,0.625,0.004015939741412864
+Latin America & Caribbean,LEVEL 1,Nutrition & Food Security,8,0.5,0.002380481723453445
+Latin America & Caribbean,LEVEL 2,Exposures / Pathways,8,49.625,0.22670301538799223
+Latin America & Caribbean,LEVEL 2,Hazard Terms,8,33.375,0.15617123565781119
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,General Health & Wellbeing,9,21,0.19653397296054095
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,Health Conditions & Health Burden,9,4.555555555555555,0.04271939545267753
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,Health Systems,9,2.4444444444444446,0.02130688596310932
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,Major Health Events,9,0.6666666666666666,0.0033678408808416552
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,Mental Health,9,0,0
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 1,Nutrition & Food Security,9,0.2222222222222222,0.0014041404614933638
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 2,Exposures / Pathways,9,36.44444444444444,0.3269744136660667
+"Middle East, North Africa, Afghanistan & Pakistan",LEVEL 2,Hazard Terms,9,30.11111111111111,0.25047979027098477
+North America,LEVEL 1,General Health & Wellbeing,1,39,0.06409308287728639
+North America,LEVEL 1,Health Conditions & Health Burden,1,9,0.014790711433219937
+North America,LEVEL 1,Health Systems,1,0,0
+North America,LEVEL 1,Major Health Events,1,8,0.013147299051751056
+North America,LEVEL 1,Mental Health,1,2,0.003286824762937764
+North America,LEVEL 1,Nutrition & Food Security,1,0,0
+North America,LEVEL 2,Exposures / Pathways,1,138,0.2267909086427057
+North America,LEVEL 2,Hazard Terms,1,107,0.17584512481717038
+South Asia,LEVEL 1,General Health & Wellbeing,5,41.4,0.15822808747217038
+South Asia,LEVEL 1,Health Conditions & Health Burden,5,20.4,0.08303378155221998
+South Asia,LEVEL 1,Health Systems,5,6.4,0.028339025621900577
+South Asia,LEVEL 1,Major Health Events,5,2.6,0.0127819020208494
+South Asia,LEVEL 1,Mental Health,5,2.2,0.013383644408506383
+South Asia,LEVEL 1,Nutrition & Food Security,5,1.4,0.004993043786121066
+South Asia,LEVEL 2,Exposures / Pathways,5,71,0.3041902951364147
+South Asia,LEVEL 2,Hazard Terms,5,66.6,0.25747360305955247
+Sub-Saharan Africa,LEVEL 1,General Health & Wellbeing,18,33.94444444444444,0.15756724122357166
+Sub-Saharan Africa,LEVEL 1,Health Conditions & Health Burden,18,11.166666666666666,0.0541315396669391
+Sub-Saharan Africa,LEVEL 1,Health Systems,18,3.6666666666666665,0.018732277618552128
+Sub-Saharan Africa,LEVEL 1,Major Health Events,18,1.2777777777777777,0.00789233350288268
+Sub-Saharan Africa,LEVEL 1,Mental Health,18,0.2777777777777778,8.749005880757853e-4
+Sub-Saharan Africa,LEVEL 1,Nutrition & Food Security,18,0.9444444444444444,0.00346129828276922
+Sub-Saharan Africa,LEVEL 2,Exposures / Pathways,18,38.72222222222222,0.18748560738672365
+Sub-Saharan Africa,LEVEL 2,Hazard Terms,18,49.72222222222222,0.2454734824191407

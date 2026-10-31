@@ -1,0 +1,5 @@
+income_level,n_countries,mean_keyword_count,mean_keyword_percentage
+High income,49,91.20408163265306,0.5574559342075284
+Low income,7,156.14285714285714,0.7935664105054379
+Lower middle income,21,178.85714285714286,0.7531972287402704
+Upper middle income,24,114.25,0.6450999287229988

@@ -1,0 +1,809 @@
+country,country_key,pdf_file,region,income_level,report_word_count,level,category,keyword_count,keyword_percentage,rank_percentage,rank_count,iso3
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,General Health & Wellbeing,10,0.4972650422675286,1,47,TUN
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,General Health & Wellbeing,89,0.37163855019208286,2,7,NRU
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,General Health & Wellbeing,82,0.34818054435055834,3,8,STP
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,General Health & Wellbeing,16,0.3217373818620551,4,37,YEM
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,General Health & Wellbeing,72,0.29837138949898473,5,9,LBN
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,General Health & Wellbeing,60,0.2947389104484944,6,10,ARM
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,General Health & Wellbeing,186,0.2842167993521079,7,1,KHM
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,General Health & Wellbeing,55,0.2825874736679854,8,13,FSM
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,General Health & Wellbeing,27,0.234192037470726,9,27,ZMB
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,General Health & Wellbeing,40,0.23357664233576642,10,18,CPV
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,General Health & Wellbeing,33,0.2331002331002331,11,23,MDV
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,General Health & Wellbeing,152,0.23120332202667965,12,2,VUT
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,General Health & Wellbeing,101,0.22531566501583902,13,6,BHS
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,General Health & Wellbeing,43,0.22291342664593053,14,16,QAT
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,General Health & Wellbeing,132,0.2183875717618252,15,3,SUR
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,General Health & Wellbeing,29,0.21614369829321012,16,25,PAK
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,General Health & Wellbeing,43,0.21387714498880875,17,16,LBR
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,General Health & Wellbeing,51,0.21192603365884063,18,14,FJI
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,General Health & Wellbeing,113,0.20677035681610248,19,4,SLE
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,General Health & Wellbeing,26,0.20420986490732013,20,29,NIU
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,General Health & Wellbeing,46,0.19887591872027668,21,15,NGA
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,General Health & Wellbeing,23,0.19068147902503732,22,31,SWZ
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,General Health & Wellbeing,109,0.18624201209718758,23,5,LKA
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,General Health & Wellbeing,27,0.175290527819256,24,27,IDN
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,General Health & Wellbeing,58,0.173377574507518,25,11,AGO
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,General Health & Wellbeing,29,0.1614339790692496,26,25,SOM
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,General Health & Wellbeing,13,0.15941140404659718,27,40,ZWE
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,General Health & Wellbeing,37,0.14812442451659394,28,21,BGD
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,General Health & Wellbeing,19,0.147389651694981,29,34,NPL
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,General Health & Wellbeing,37,0.14641288433382138,30,21,BLZ
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,General Health & Wellbeing,6,0.14612761811982464,31,80,MYS
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,General Health & Wellbeing,20,0.14197487044793072,32,33,MNG
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,General Health & Wellbeing,13,0.13688533221017163,33,40,TUV
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,General Health & Wellbeing,13,0.13429752066115702,34,40,ETH
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,General Health & Wellbeing,58,0.13021710334298736,35,11,MDA
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,General Health & Wellbeing,26,0.12957241104355627,36,29,MUS
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,General Health & Wellbeing,38,0.12400469912544054,37,20,RWA
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,General Health & Wellbeing,18,0.12058685603269244,38,36,SLB
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,General Health & Wellbeing,9,0.10705364577138099,39,75,LCA
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,General Health & Wellbeing,33,0.10465890710729124,40,23,LSO
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,General Health & Wellbeing,7,0.10368834246778255,41,78,TUR
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,General Health & Wellbeing,19,0.09554940910233845,42,34,BRB
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,General Health & Wellbeing,12,0.08828722778104768,43,43,AUS
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,General Health & Wellbeing,11,0.08246495239523202,44,46,VCT
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,General Health & Wellbeing,21,0.07984487281852401,45,32,AZE
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,General Health & Wellbeing,9,0.07628411595185625,46,75,BTN
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,General Health & Wellbeing,3,0.07403751233958539,47,84,JOR
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,General Health & Wellbeing,16,0.07315288953913679,48,37,PLW
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,General Health & Wellbeing,12,0.07003209804493726,49,43,ZAF
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,General Health & Wellbeing,39,0.06409308287728639,50,19,CAN
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,General Health & Wellbeing,7,0.06269030986924592,51,78,KEN
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,General Health & Wellbeing,14,0.06176652254478073,52,39,TON
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,General Health & Wellbeing,4,0.0613685179502915,53,82,BRN
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,General Health & Wellbeing,12,0.06115584547956376,54,43,GBR
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,General Health & Wellbeing,6,0.059940059940059943,55,80,SYC
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,General Health & Wellbeing,10,0.05959475566150179,56,47,SWE
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,General Health & Wellbeing,8,0.05901445854234287,83,77,MHL
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,General Health & Wellbeing,4,0.05033345916698125,84,82,SAU
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,General Health & Wellbeing,1,0.03570153516601214,85,89,VAT
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,General Health & Wellbeing,2,0.031756113051762465,86,85,JAM
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,General Health & Wellbeing,2,0.030637254901960783,87,85,MOZ
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,General Health & Wellbeing,2,0.028409090909090908,88,85,BHR
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,General Health & Wellbeing,1,0.020742584526031945,89,89,SRB
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,General Health & Wellbeing,2,0.01867588010084975,90,85,WSM
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,General Health & Wellbeing,1,0.013865779256794232,91,89,CHE
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,General Health & Wellbeing,0,0,92,92,ISL
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,General Health & Wellbeing,0,0,92,92,JPN
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,General Health & Wellbeing,0,0,92,92,LIE
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,General Health & Wellbeing,0,0,92,92,MNE
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,General Health & Wellbeing,0,0,92,92,NZL
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,General Health & Wellbeing,0,0,92,92,NOR
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,General Health & Wellbeing,0,0,92,92,KOR
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,General Health & Wellbeing,0,0,92,92,SGP
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,General Health & Wellbeing,0,0,92,92,THA
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,General Health & Wellbeing,0,0,92,92,TTO
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,Health Conditions & Health Burden,31,0.15228177039838875,1,4,ARM
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,Health Conditions & Health Burden,92,0.1405803523677093,2,1,KHM
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,Health Conditions & Health Burden,16,0.12411760142735241,3,10,NPL
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,Health Conditions & Health Burden,19,0.1057670897350256,4,8,SOM
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,Health Conditions & Health Burden,68,0.10343306511719878,5,2,VUT
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,Health Conditions & Health Burden,2,0.09945300845350571,6,70,TUN
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,Health Conditions & Health Burden,16,0.09343065693430656,7,10,CPV
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,Health Conditions & Health Burden,23,0.09207734496977461,8,7,BGD
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,Health Conditions & Health Burden,15,0.08754012255617158,9,14,ZAF
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,Health Conditions & Health Burden,12,0.08476372112735749,10,21,MDV
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,Health Conditions & Health Burden,19,0.08214440121054907,11,8,NGA
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,Health Conditions & Health Burden,4,0.08043434546551377,12,38,YEM
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,Health Conditions & Health Burden,47,0.08030618870245702,13,3,LKA
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,Health Conditions & Health Burden,9,0.078064012490242,14,27,ZMB
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,Health Conditions & Health Burden,15,0.07706931100035966,15,14,FSM
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,Health Conditions & Health Burden,25,0.07473171314979224,16,5,AGO
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,Health Conditions & Health Burden,7,0.07231404958677685,17,32,ETH
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,Health Conditions & Health Burden,8,0.0663239927043608,18,31,SWZ
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,Health Conditions & Health Burden,14,0.06400877834674469,19,18,PLW
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,Health Conditions & Health Burden,15,0.0636915629909558,20,14,STP
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,Health Conditions & Health Burden,9,0.06029342801634622,21,27,SLB
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,Health Conditions & Health Burden,12,0.05968664511315593,22,21,LBR
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,Health Conditions & Health Burden,14,0.05801665906924703,23,18,LBN
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,Health Conditions & Health Burden,13,0.054284282612326706,24,20,NRU
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,Health Conditions & Health Burden,12,0.052942733609812054,25,21,TON
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,Health Conditions & Health Burden,5,0.05264820469621986,26,36,TUV
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,Health Conditions & Health Burden,16,0.05221250489492233,27,10,RWA
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,Health Conditions & Health Burden,7,0.05217261682939554,28,32,PAK
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,Health Conditions & Health Burden,10,0.05184033177812338,29,24,QAT
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,Health Conditions & Health Burden,10,0.0498355427090601,30,24,MUS
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,Health Conditions & Health Burden,6,0.0471253534401508,31,34,NIU
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,Health Conditions & Health Burden,25,0.04574565416285453,32,5,SLE
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,Health Conditions & Health Burden,10,0.03957104981995172,33,24,BLZ
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,Health Conditions & Health Burden,9,0.03739871182214835,34,27,FJI
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,Health Conditions & Health Burden,5,0.036884036588964296,35,36,MHL
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,Health Conditions & Health Burden,16,0.03592195954289307,36,10,MDA
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,Health Conditions & Health Burden,3,0.03568454859046033,37,41,LCA
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,Health Conditions & Health Burden,4,0.03390405153415833,38,38,BTN
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,Health Conditions & Health Burden,4,0.028394974089586144,39,38,MNG
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,Health Conditions & Health Burden,15,0.024816769518389226,40,14,SUR
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,Health Conditions & Health Burden,1,0.024679170779861797,41,73,JOR
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,Health Conditions & Health Burden,6,0.022812820805292573,42,34,AZE
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Conditions & Health Burden,3,0.017878426698450536,43,41,SWE
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,Health Conditions & Health Burden,1,0.015318627450980392,70,73,MOZ
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,Health Conditions & Health Burden,1,0.014812620352540365,71,73,TUR
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,Health Conditions & Health Burden,9,0.014790711433219937,72,27,CAN
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,Health Conditions & Health Burden,2,0.014714537963507945,73,70,AUS
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,Health Conditions & Health Burden,1,0.012262415695892091,74,73,ZWE
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,Health Conditions & Health Burden,1,0.008955758552749419,75,73,KEN
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,Health Conditions & Health Burden,3,0.006692544505420961,76,41,BHS
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,Health Conditions & Health Burden,2,0.00634296406710856,77,70,LSO
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,Health Conditions & Health Burden,1,0.005096320456630313,78,73,GBR
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,Health Conditions & Health Burden,1,0.005028916268544128,79,73,BRB
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,BHR
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,BRN
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,VAT
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,ISL
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,IDN
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,JAM
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,JPN
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,LIE
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,MYS
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,MNE
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,NZL
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,NOR
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,KOR
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,VCT
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,WSM
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,SAU
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,SRB
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,SYC
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,SGP
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,CHE
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,THA
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,Health Conditions & Health Burden,0,0,80,80,TTO
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,Health Systems,10,0.082904990880451,1,7,SWZ
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,Health Systems,7,0.07231404958677685,2,14,ETH
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,Health Systems,10,0.07063643427279791,3,7,MDV
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,Health Systems,15,0.0636915629909558,4,2,STP
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,Health Systems,3,0.06032575909913533,5,19,YEM
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,Health Systems,2,0.049358341559723594,6,24,JOR
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,Health Systems,9,0.04476498383486695,7,9,LBR
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,Health Systems,8,0.041472265422498704,8,11,QAT
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,Health Systems,8,0.039298521393132585,9,11,ARM
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,Health Systems,9,0.03603026542295528,10,9,BGD
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,Health Systems,8,0.0331523766109983,11,11,LBN
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,Health Systems,4,0.031416902293433864,12,17,NIU
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,Health Systems,20,0.030421489740352584,13,1,VUT
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,Health Systems,14,0.025617566331198535,14,3,SLE
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,Health Systems,14,0.023162318217163278,15,3,SUR
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,Health Systems,2,0.021059281878487945,16,24,TUV
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,Health Systems,13,0.019864615008480663,17,5,KHM
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,Health Systems,11,0.01879506544100058,18,6,LKA
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,Health Systems,4,0.0166216496987326,19,17,FJI
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,Health Systems,7,0.015615937179315576,20,14,BHS
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,Health Systems,1,0.015549681231534754,21,28,TTO
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,Health Systems,3,0.015086748805632386,22,19,BRB
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,Health Systems,6,0.013470734828584898,23,16,MDA
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,Health Systems,2,0.01339853955918805,24,24,SLB
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,Health Systems,3,0.01297016861219196,25,19,NGA
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,Health Systems,3,0.011871314945985516,26,19,BLZ
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,Health Systems,2,0.0111333778668448,27,24,SOM
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,Health Systems,3,0.009789844667797937,28,19,RWA
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,Health Systems,1,0.008476012883539583,29,28,BTN
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,Health Systems,1,0.007757350089209526,30,28,NPL
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,Health Systems,1,0.007496813854112002,31,28,VCT
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,Health Systems,1,0.007453230975627935,32,28,PAK
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,Health Systems,1,0.007376807317792859,33,28,MHL
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,Health Systems,1,0.00583941605839416,34,28,CPV
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,Health Systems,1,0.004983554270906011,35,28,MUS
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,Health Systems,1,0.004572055596196049,36,28,PLW
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,Health Systems,1,0.0041757140471020545,37,28,NRU
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,Health Systems,1,0.00317148203355428,38,28,LSO
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,Health Systems,0,0,39,39,AGO
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,Health Systems,0,0,39,39,AUS
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,AUT
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,Health Systems,0,0,39,39,AZE
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,Health Systems,0,0,39,39,BHR
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,BEL
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,Health Systems,0,0,39,39,BRN
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,BGR
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,Health Systems,0,0,39,39,CAN
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,GRC
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,Health Systems,0,0,39,39,VAT
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,HUN
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,Health Systems,0,0,39,39,ISL
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,Health Systems,0,0,39,39,IDN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,ITA
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,Health Systems,0,0,39,39,JAM
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,Health Systems,0,0,39,39,JPN
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,Health Systems,0,0,39,39,KEN
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,LVA
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,Health Systems,0,0,39,39,LIE
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,LUX
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,Health Systems,0,0,39,39,MYS
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,Health Systems,0,0,39,39,MLT
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,Health Systems,0,0,39,39,FSM
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,Health Systems,0,0,39,39,MNG
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,Health Systems,0,0,39,39,MNE
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,Health Systems,0,0,39,39,MOZ
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,NLD
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,Health Systems,0,0,39,39,NZL
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,Health Systems,0,0,39,39,NOR
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,PRT
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,Health Systems,0,0,39,39,KOR
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,ROU
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,Health Systems,0,0,39,39,LCA
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,Health Systems,0,0,39,39,WSM
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,Health Systems,0,0,39,39,SAU
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,Health Systems,0,0,39,39,SRB
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,Health Systems,0,0,39,39,SYC
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,Health Systems,0,0,39,39,SGP
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,SVN
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,Health Systems,0,0,39,39,ZAF
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Health Systems,0,0,39,39,SWE
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,Health Systems,0,0,39,39,CHE
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,Health Systems,0,0,39,39,THA
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,Health Systems,0,0,39,39,TON
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,Health Systems,0,0,39,39,TUN
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,Health Systems,0,0,39,39,TUR
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,Health Systems,0,0,39,39,GBR
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,Health Systems,0,0,39,39,ZMB
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,Health Systems,0,0,39,39,ZWE
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,Major Health Events,19,0.14243946322812803,1,2,VCT
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,Major Health Events,21,0.1056072416394267,2,1,BRB
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,Major Health Events,8,0.08423712751395178,3,3,TUV
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,Major Health Events,8,0.074703520403399,4,3,WSM
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,Major Health Events,8,0.033405712376816436,5,3,NRU
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,Major Health Events,5,0.03246120885541778,6,9,IDN
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,Major Health Events,2,0.031756113051762465,7,45,JAM
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,Major Health Events,3,0.030991735537190084,8,13,ETH
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,Major Health Events,2,0.023789699060306885,9,45,LCA
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,Major Health Events,3,0.02119093028183937,10,13,MDV
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,Major Health Events,2,0.01998001998001998,11,45,SYC
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,Major Health Events,4,0.019649260696566292,12,11,ARM
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,Major Health Events,2,0.017911517105498837,13,45,KEN
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Major Health Events,3,0.017878426698450536,14,13,SWE
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,Major Health Events,3,0.017508024511234316,41,13,ZAF
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,Major Health Events,2,0.016952025767079167,42,45,BTN
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,Major Health Events,4,0.01582841992798069,43,11,BLZ
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,Major Health Events,7,0.015615937179315576,44,7,BHS
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,Major Health Events,2,0.015514700178419051,45,45,NPL
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,Major Health Events,3,0.015413862200071932,46,13,FSM
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,Major Health Events,2,0.014753614635585718,47,45,MHL
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,Major Health Events,2,0.01339853955918805,48,45,SLB
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,Major Health Events,8,0.013147299051751056,49,3,CAN
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,Major Health Events,3,0.012432141229124363,50,13,LBN
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,Major Health Events,2,0.01167883211678832,51,45,CPV
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,Major Health Events,6,0.010251853876909408,52,8,LKA
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,Major Health Events,2,0.009967108541812021,53,45,MUS
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,Major Health Events,2,0.009947774185525988,54,45,LBR
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,Major Health Events,2,0.008823788934968676,55,45,TON
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,Major Health Events,2,0.008492208398794106,56,45,STP
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,Major Health Events,5,0.007605372435088146,57,9,VUT
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,Major Health Events,2,0.00634296406710856,58,45,LSO
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,Major Health Events,2,0.005978537051983379,59,45,AGO
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,Major Health Events,2,0.003308902602451897,60,45,SUR
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,Major Health Events,1,0.0032632815559326457,61,62,RWA
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,Major Health Events,2,0.0030560946166893325,62,45,KHM
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,Major Health Events,0,0,63,63,AUS
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,Major Health Events,0,0,63,63,AZE
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,Major Health Events,0,0,63,63,BHR
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,Major Health Events,0,0,63,63,BGD
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,Major Health Events,0,0,63,63,BRN
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,Major Health Events,0,0,63,63,SWZ
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,Major Health Events,0,0,63,63,FJI
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,Major Health Events,0,0,63,63,VAT
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,Major Health Events,0,0,63,63,ISL
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,Major Health Events,0,0,63,63,JPN
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,Major Health Events,0,0,63,63,JOR
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,Major Health Events,0,0,63,63,LIE
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,Major Health Events,0,0,63,63,MYS
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,Major Health Events,0,0,63,63,MDA
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,Major Health Events,0,0,63,63,MNG
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,Major Health Events,0,0,63,63,MNE
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,Major Health Events,0,0,63,63,MOZ
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,Major Health Events,0,0,63,63,NZL
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,Major Health Events,0,0,63,63,NGA
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,Major Health Events,0,0,63,63,NIU
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,Major Health Events,0,0,63,63,NOR
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,Major Health Events,0,0,63,63,PAK
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,Major Health Events,0,0,63,63,PLW
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,Major Health Events,0,0,63,63,QAT
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,Major Health Events,0,0,63,63,KOR
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,Major Health Events,0,0,63,63,SAU
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,Major Health Events,0,0,63,63,SRB
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,Major Health Events,0,0,63,63,SLE
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,Major Health Events,0,0,63,63,SGP
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,Major Health Events,0,0,63,63,SOM
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,Major Health Events,0,0,63,63,CHE
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,Major Health Events,0,0,63,63,THA
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,Major Health Events,0,0,63,63,TTO
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,Major Health Events,0,0,63,63,TUN
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,Major Health Events,0,0,63,63,TUR
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,Major Health Events,0,0,63,63,GBR
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,Major Health Events,0,0,63,63,YEM
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,Major Health Events,0,0,63,63,ZMB
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,Major Health Events,0,0,63,63,ZWE
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,Mental Health,7,0.04944550399095854,1,2,MDV
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,Mental Health,5,0.024561575870707866,2,3,ARM
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,Mental Health,2,0.023789699060306885,3,5,LCA
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,Mental Health,14,0.02129504281824681,4,1,VUT
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,Mental Health,2,0.01867588010084975,5,5,WSM
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,Mental Health,1,0.010529640939243972,6,11,TUV
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,Mental Health,2,0.008006725649545618,7,5,BGD
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,Mental Health,1,0.007757350089209526,8,11,NPL
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,Mental Health,1,0.007376807317792859,9,11,MHL
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,Mental Health,1,0.007098743522396536,10,11,MNG
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,Mental Health,4,0.006112189233378665,11,4,KHM
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,Mental Health,1,0.005836008170411439,12,11,ZAF
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,Mental Health,1,0.005028916268544128,13,11,BRB
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,Mental Health,2,0.0036596523330283625,14,5,SLE
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,Mental Health,2,0.003308902602451897,15,5,SUR
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,Mental Health,2,0.003286824762937764,16,5,CAN
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,Mental Health,1,0.0032632815559326457,17,11,RWA
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,Mental Health,1,0.0029892685259916897,18,11,AGO
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,Mental Health,1,0.0022451224714308167,19,11,MDA
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,Mental Health,1,0.0017086423128182347,20,11,LKA
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,Mental Health,0,0,21,21,AUS
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,AUT
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,Mental Health,0,0,21,21,AZE
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,Mental Health,0,0,21,21,BHS
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,Mental Health,0,0,21,21,BHR
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,BEL
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,Mental Health,0,0,21,21,BLZ
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,Mental Health,0,0,21,21,BTN
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,Mental Health,0,0,21,21,BRN
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,BGR
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,Mental Health,0,0,21,21,CPV
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,EST
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,Mental Health,0,0,21,21,SWZ
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,Mental Health,0,0,21,21,ETH
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,Mental Health,0,0,21,21,FJI
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,GRC
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,Mental Health,0,0,21,21,VAT
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,HUN
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,Mental Health,0,0,21,21,ISL
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,Mental Health,0,0,21,21,IDN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,ITA
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,Mental Health,0,0,21,21,JAM
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,Mental Health,0,0,21,21,JPN
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,Mental Health,0,0,21,21,JOR
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,Mental Health,0,0,21,21,KEN
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,LVA
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,Mental Health,0,0,21,21,LBN
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,Mental Health,0,0,21,21,LSO
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,Mental Health,0,0,21,21,LBR
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,Mental Health,0,0,21,21,LIE
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,LUX
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,Mental Health,0,0,21,21,MYS
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,Mental Health,0,0,21,21,MLT
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,Mental Health,0,0,21,21,MUS
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,Mental Health,0,0,21,21,FSM
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,Mental Health,0,0,21,21,MNE
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,Mental Health,0,0,21,21,MOZ
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,Mental Health,0,0,21,21,NRU
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,NLD
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,Mental Health,0,0,21,21,NZL
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,Mental Health,0,0,21,21,NGA
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,Mental Health,0,0,21,21,NIU
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,Mental Health,0,0,21,21,NOR
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,Mental Health,0,0,21,21,PAK
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,Mental Health,0,0,21,21,PLW
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,PRT
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,Mental Health,0,0,21,21,QAT
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,Mental Health,0,0,21,21,KOR
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,ROU
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,Mental Health,0,0,21,21,VCT
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,Mental Health,0,0,21,21,STP
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,Mental Health,0,0,21,21,SAU
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,Mental Health,0,0,21,21,SRB
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,Mental Health,0,0,21,21,SYC
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,Mental Health,0,0,21,21,SGP
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,SVN
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,Mental Health,0,0,21,21,SLB
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,Mental Health,0,0,21,21,SOM
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Mental Health,0,0,21,21,SWE
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,Mental Health,0,0,21,21,CHE
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,Mental Health,0,0,21,21,THA
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,Mental Health,0,0,21,21,TON
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,Mental Health,0,0,21,21,TTO
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,Mental Health,0,0,21,21,TUN
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,Mental Health,0,0,21,21,TUR
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,Mental Health,0,0,21,21,GBR
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,Mental Health,0,0,21,21,YEM
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,Mental Health,0,0,21,21,ZMB
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,Mental Health,0,0,21,21,ZWE
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 1,Nutrition & Food Security,17,0.025976804241859327,1,1,KHM
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 1,Nutrition & Food Security,7,0.022842970891528522,2,2,RWA
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 1,Nutrition & Food Security,1,0.020682523267838676,3,11,THA
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 1,Nutrition & Food Security,2,0.015708451146716932,4,7,NIU
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 1,Nutrition & Food Security,3,0.015086748805632386,5,4,BRB
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 1,Nutrition & Food Security,2,0.014127286854559582,6,7,MDV
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 1,Nutrition & Food Security,3,0.01246623727404945,7,4,FJI
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 1,Nutrition & Food Security,1,0.010330578512396695,8,11,ETH
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 1,Nutrition & Food Security,3,0.00896780557797507,9,4,AGO
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 1,Nutrition & Food Security,1,0.007453230975627935,10,11,PAK
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 1,Nutrition & Food Security,1,0.007376807317792859,11,11,MHL
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 1,Nutrition & Food Security,4,0.006834569251272939,12,3,LKA
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 1,Nutrition & Food Security,2,0.00634296406710856,13,7,LSO
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 1,Nutrition & Food Security,1,0.005836008170411439,14,11,ZAF
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 1,Nutrition & Food Security,1,0.005184033177812338,15,11,QAT
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 1,Nutrition & Food Security,1,0.004411894467484338,16,11,TON
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 1,Nutrition & Food Security,1,0.00432338953739732,17,11,NGA
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 1,Nutrition & Food Security,1,0.004003362824772809,18,11,BGD
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 1,Nutrition & Food Security,1,0.003957104981995172,19,11,BLZ
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 1,Nutrition & Food Security,1,0.0038021368008820957,20,11,AZE
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 1,Nutrition & Food Security,2,0.0036596523330283625,21,7,SLE
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 1,Nutrition & Food Security,1,0.0022451224714308167,22,11,MDA
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 1,Nutrition & Food Security,0,0,23,23,ARM
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 1,Nutrition & Food Security,0,0,23,23,AUS
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,AUT
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 1,Nutrition & Food Security,0,0,23,23,BHS
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 1,Nutrition & Food Security,0,0,23,23,BHR
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,BEL
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 1,Nutrition & Food Security,0,0,23,23,BTN
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 1,Nutrition & Food Security,0,0,23,23,BRN
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,BGR
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 1,Nutrition & Food Security,0,0,23,23,CPV
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 1,Nutrition & Food Security,0,0,23,23,CAN
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,EST
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 1,Nutrition & Food Security,0,0,23,23,SWZ
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,GRC
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 1,Nutrition & Food Security,0,0,23,23,VAT
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,HUN
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 1,Nutrition & Food Security,0,0,23,23,ISL
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 1,Nutrition & Food Security,0,0,23,23,IDN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,ITA
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 1,Nutrition & Food Security,0,0,23,23,JAM
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 1,Nutrition & Food Security,0,0,23,23,JPN
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 1,Nutrition & Food Security,0,0,23,23,JOR
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 1,Nutrition & Food Security,0,0,23,23,KEN
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,LVA
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 1,Nutrition & Food Security,0,0,23,23,LBN
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 1,Nutrition & Food Security,0,0,23,23,LBR
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 1,Nutrition & Food Security,0,0,23,23,LIE
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,LUX
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 1,Nutrition & Food Security,0,0,23,23,MYS
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,MLT
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 1,Nutrition & Food Security,0,0,23,23,MUS
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 1,Nutrition & Food Security,0,0,23,23,FSM
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 1,Nutrition & Food Security,0,0,23,23,MNG
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 1,Nutrition & Food Security,0,0,23,23,MNE
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 1,Nutrition & Food Security,0,0,23,23,MOZ
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 1,Nutrition & Food Security,0,0,23,23,NRU
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 1,Nutrition & Food Security,0,0,23,23,NPL
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,NLD
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 1,Nutrition & Food Security,0,0,23,23,NZL
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 1,Nutrition & Food Security,0,0,23,23,NOR
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 1,Nutrition & Food Security,0,0,23,23,PLW
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,PRT
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 1,Nutrition & Food Security,0,0,23,23,KOR
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,ROU
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 1,Nutrition & Food Security,0,0,23,23,LCA
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 1,Nutrition & Food Security,0,0,23,23,VCT
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 1,Nutrition & Food Security,0,0,23,23,WSM
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 1,Nutrition & Food Security,0,0,23,23,STP
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 1,Nutrition & Food Security,0,0,23,23,SAU
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 1,Nutrition & Food Security,0,0,23,23,SRB
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 1,Nutrition & Food Security,0,0,23,23,SYC
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 1,Nutrition & Food Security,0,0,23,23,SGP
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,SVN
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 1,Nutrition & Food Security,0,0,23,23,SLB
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 1,Nutrition & Food Security,0,0,23,23,SOM
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,ESP
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 1,Nutrition & Food Security,0,0,23,23,SUR
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 1,Nutrition & Food Security,0,0,23,23,SWE
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 1,Nutrition & Food Security,0,0,23,23,CHE
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 1,Nutrition & Food Security,0,0,23,23,TTO
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 1,Nutrition & Food Security,0,0,23,23,TUN
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 1,Nutrition & Food Security,0,0,23,23,TUV
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 1,Nutrition & Food Security,0,0,23,23,TUR
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 1,Nutrition & Food Security,0,0,23,23,GBR
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 1,Nutrition & Food Security,0,0,23,23,VUT
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 1,Nutrition & Food Security,0,0,23,23,YEM
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 1,Nutrition & Food Security,0,0,23,23,ZMB
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 1,Nutrition & Food Security,0,0,23,23,ZWE
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 2,Exposures / Pathways,25,0.5027146591594611,1,70,YEM
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 2,Exposures / Pathways,47,0.4948931241444667,2,53,TUV
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 2,Exposures / Pathways,97,0.49434308429314033,3,10,GBR
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 2,Exposures / Pathways,67,0.4929370217775162,4,16,AUS
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 2,Exposures / Pathways,112,0.4676799732754301,5,7,NRU
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 2,Exposures / Pathways,87,0.447002003802086,6,13,FSM
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 2,Exposures / Pathways,112,0.42583932169879474,7,7,AZE
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 2,Exposures / Pathways,28,0.3977272727272727,8,67,BHR
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 2,Exposures / Pathways,72,0.37325038880248834,9,15,QAT
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 2,Exposures / Pathways,52,0.3673094582185491,10,51,MDV
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 2,Exposures / Pathways,90,0.3603026542295528,11,11,BGD
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 2,Exposures / Pathways,78,0.3566203365032919,12,14,PLW
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 2,Exposures / Pathways,42,0.35599254110866246,13,56,BTN
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 2,Exposures / Pathways,27,0.33975084937712347,14,69,SAU
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 2,Exposures / Pathways,67,0.33693738999245665,15,16,BRB
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Exposures / Pathways,56,0.33373063170441003,16,21,SWE
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 2,Exposures / Pathways,42,0.3298774740810556,43,56,NIU
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 2,Exposures / Pathways,42,0.3148661818727041,44,56,VCT
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 2,Exposures / Pathways,20,0.3109936246306951,45,75,TTO
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 2,Exposures / Pathways,41,0.30558247000074534,46,59,PAK
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 2,Exposures / Pathways,131,0.29411104375743696,47,5,MDA
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 2,Exposures / Pathways,158,0.2891125343092406,48,1,SLE
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 2,Exposures / Pathways,57,0.2835115642874907,49,19,LBR
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 2,Exposures / Pathways,57,0.28000196492606966,50,19,ARM
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 2,Exposures / Pathways,55,0.27409548489983054,51,48,MUS
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 2,Exposures / Pathways,37,0.2729418707583358,52,61,MHL
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 2,Exposures / Pathways,11,0.2714708785784798,53,83,JOR
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 2,Exposures / Pathways,121,0.2699326283853121,54,6,BHS
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 2,Exposures / Pathways,65,0.2693630599643612,55,18,LBN
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 2,Exposures / Pathways,48,0.26720106880427524,56,52,SOM
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 2,Exposures / Pathways,17,0.25942316496261253,57,77,SGP
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 2,Exposures / Pathways,31,0.2570054717293981,58,65,SWZ
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 2,Exposures / Pathways,147,0.25117041998428047,59,3,LKA
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 2,Exposures / Pathways,28,0.24286581663630843,60,67,ZMB
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 2,Exposures / Pathways,156,0.23837538010176795,61,2,KHM
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 2,Exposures / Pathways,54,0.23824230124415424,62,50,TON
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 2,Exposures / Pathways,20,0.23789699060306888,63,75,LCA
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 2,Exposures / Pathways,55,0.23778642455685256,64,48,NGA
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 2,Exposures / Pathways,138,0.2267909086427057,65,4,CAN
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 2,Exposures / Pathways,38,0.22189781021897811,66,60,CPV
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 2,Exposures / Pathways,21,0.21694214876033058,67,74,ETH
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 2,Exposures / Pathways,6,0.21420921099607282,68,90,VAT
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 2,Exposures / Pathways,31,0.2012594949035902,69,65,IDN
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 2,Exposures / Pathways,8,0.1948368241597662,70,87,MYS
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 2,Exposures / Pathways,24,0.18617640214102862,71,73,NPL
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 2,Exposures / Pathways,12,0.17278617710583152,72,81,KOR
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 2,Exposures / Pathways,25,0.1674817444898506,73,70,SLB
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 2,Exposures / Pathways,9,0.1669449081803005,74,86,MNE
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 2,Exposures / Pathways,108,0.16427604459790396,75,9,VUT
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 2,Exposures / Pathways,11,0.162938823877944,76,83,TUR
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 2,Exposures / Pathways,13,0.15941140404659718,77,80,ZWE
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 2,Exposures / Pathways,3,0.14917951268025859,78,95,TUN
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 2,Exposures / Pathways,90,0.14890061711033536,79,11,SUR
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 2,Exposures / Pathways,44,0.1435843884610364,80,54,RWA
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 2,Exposures / Pathways,34,0.14128402243922708,81,62,FJI
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 2,Exposures / Pathways,43,0.13637372744283405,82,55,LSO
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 2,Exposures / Pathways,33,0.13058446440584068,83,63,BLZ
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 2,Exposures / Pathways,8,0.12254901960784313,84,87,MOZ
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 2,Exposures / Pathways,12,0.11988011988011989,85,81,SYC
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 2,Exposures / Pathways,16,0.11357989635834458,86,79,MNG
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 2,Exposures / Pathways,25,0.10615260498492633,87,70,STP
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 2,Exposures / Pathways,5,0.10341261633919338,88,91,THA
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 2,Exposures / Pathways,17,0.09921213889699446,89,77,ZAF
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 2,Exposures / Pathways,33,0.09864586135772577,90,63,AGO
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 2,Exposures / Pathways,11,0.09851334408024359,91,83,KEN
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 2,Exposures / Pathways,4,0.08141664970486465,92,92,LIE
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 2,Exposures / Pathways,8,0.074703520403399,93,87,WSM
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 2,Exposures / Pathways,3,0.07262164124909223,94,95,JPN
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 2,Exposures / Pathways,4,0.06351222610352493,95,92,JAM
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 2,Exposures / Pathways,3,0.06204756980351603,96,95,NOR
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 2,Exposures / Pathways,4,0.0613685179502915,97,92,BRN
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 2,Exposures / Pathways,3,0.04443127962085308,98,95,NZL
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 2,Exposures / Pathways,2,0.04148516905206389,99,99,SRB
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 2,Exposures / Pathways,1,0.013865779256794232,100,100,CHE
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 2,Exposures / Pathways,0,0,101,101,ISL
+Japan,japan,[Japan] Japans 2035-2040 NDC.pdf,East Asia & Pacific,High income,4131,LEVEL 2,Hazard Terms,32,0.7746308399903171,1,36,JPN
+Serbia,serbia,[Serbia] NDC3 of the Republic of Serbia.pdf,Europe & Central Asia,Upper middle income,4821,LEVEL 2,Hazard Terms,35,0.725990458411118,2,33,SRB
+Switzerland,switzerland,[Switzerland] Switzerland second NDC 2031-2035.pdf,Europe & Central Asia,High income,7212,LEVEL 2,Hazard Terms,42,0.5823627287853578,3,27,CHE
+Yemen,yemen,[Yemen] Yemens NDC3.0 Vision.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Low income,4973,LEVEL 2,Hazard Terms,24,0.48260607279308265,4,45,YEM
+Republic of Korea,republic of korea,[Republic of Korea] The Republic of Koreas 2035 NDC.pdf,East Asia & Pacific,High income,6945,LEVEL 2,Hazard Terms,29,0.4175665946724262,5,39,KOR
+Angola,angola,[Angola] Angola NDC_September2025_Upload.pdf,Sub-Saharan Africa,Lower middle income,33453,LEVEL 2,Hazard Terms,139,0.4155083251128449,6,2,AGO
+South Africa,south africa,[South Africa] South Africa's second Nationally Determined Contribution_2025.pdf,Sub-Saharan Africa,Upper middle income,17135,LEVEL 2,Hazard Terms,67,0.39101254741756636,7,13,ZAF
+Mauritius,mauritius,[Mauritius] NDC 3.0  Mauritius.pdf,Sub-Saharan Africa,Upper middle income,20066,LEVEL 2,Hazard Terms,74,0.3687830160470448,8,8,MUS
+Qatar,qatar,[Qatar] Qatar NDC 3.0.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,19290,LEVEL 2,Hazard Terms,70,0.36288232244686364,9,12,QAT
+Saint Lucia,saint lucia,[Saint Lucia] Saint Lucias Third Nationally Determined Contribution.pdf,Latin America & Caribbean,Upper middle income,8407,LEVEL 2,Hazard Terms,30,0.3568454859046033,10,38,LCA
+Cabo Verde,cabo verde,[Cabo Verde] NDC 3.0 Cabo Verde.pdf,Sub-Saharan Africa,Upper middle income,17125,LEVEL 2,Hazard Terms,59,0.3445255474452555,11,18,CPV
+Bahrain,bahrain,[Bahrain] 30112025_Bahrain_2025NDC3.0_vSubmitted.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7040,LEVEL 2,Hazard Terms,24,0.3409090909090909,12,45,BHR
+Maldives,maldives,[Maldives] Maldives’ Third Nationally Determined Contribution.pdf,South Asia,Upper middle income,14157,LEVEL 2,Hazard Terms,48,0.33905488450942994,13,23,MDV
+Rwanda,rwanda,[Rwanda] Rwanda NDC3.0 Final.pdf,Sub-Saharan Africa,Low income,30644,LEVEL 2,Hazard Terms,101,0.32959143714919725,14,6,RWA
+Niue,niue,[Niue] NIUE NDC 3.0.pdf,East Asia & Pacific,Lower middle income,12732,LEVEL 2,Hazard Terms,41,0.32202324850769715,15,28,NIU
+Armenia,armenia,[Armenia] Armenia's NDC 3.0.pdf,Europe & Central Asia,Upper middle income,20357,LEVEL 2,Hazard Terms,64,0.3143881711450607,16,15,ARM
+Sri Lanka,sri lanka,[Sri Lanka] Sri Lankas Nationally Determined Contributions 3.0 (2026-2035) submitted 22.09.2025 (1).pdf,South Asia,Lower middle income,58526,LEVEL 2,Hazard Terms,182,0.3109729009329187,17,1,LKA
+Norway,norway,[Norways] Norways NDC for 2035.pdf,Europe & Central Asia,High income,4835,LEVEL 2,Hazard Terms,15,0.31023784901758017,18,81,NOR
+Micronesia,micronesia,[Micronesia] FSM NDC 3.0.pdf,East Asia & Pacific,Lower middle income,19463,LEVEL 2,Hazard Terms,60,0.30827724400143863,19,17,FSM
+Pakistan,pakistan,[Pakistan] Pakistan_NDC3.0_24 Sep.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,13417,LEVEL 2,Hazard Terms,41,0.30558247000074534,20,28,PAK
+Sao Tome and Principe,sao tome and principe,[Sao Tome and Príncipe] NDC3.0_Sao_Tome_Principe_F.pdf,Sub-Saharan Africa,Lower middle income,23551,LEVEL 2,Hazard Terms,71,0.30147339815719076,21,10,STP
+Lebanon,lebanon,[Lebanon] LBN NDC 3.0 30.09.2025 Final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,24131,LEVEL 2,Hazard Terms,71,0.2942273424226099,22,10,LBN
+Eswatini,eswatini,[Eswatini] Eswatini NDC 3.0 Report_for Submission -FINAL f.pdf,Sub-Saharan Africa,Lower middle income,12062,LEVEL 2,Hazard Terms,35,0.2901674680815785,23,33,SWZ
+Marshall Islands,marshall islands,[Marshall Islands] Republic of the Marshall Islands NDC 3.0.pdf,East Asia & Pacific,Upper middle income,13556,LEVEL 2,Hazard Terms,39,0.28769548539392154,24,31,MHL
+Holy See,holy see,[Holy See or Vatican] Holy See_NDC 2035_September 2025.pdf,Europe & Central Asia,High income,2801,LEVEL 2,Hazard Terms,8,0.28561228132809713,25,92,VAT
+Bhutan,bhutan,[Bhutan] Third NDC (Provisional)_10 November 2025.pdf,South Asia,Lower middle income,11798,LEVEL 2,Hazard Terms,31,0.26275639938972706,26,37,BTN
+Kenya,kenya,[Kenya] KENYAS SECOND NATIONALLY DETERMINED CONTRIBUTION 2031_2035.pdf,Sub-Saharan Africa,Lower middle income,11166,LEVEL 2,Hazard Terms,28,0.2507612394769837,27,41,KEN
+Liberia,liberia,[Liberia] Liberias_2035_NDC_3.0_Final.pdf,Sub-Saharan Africa,Low income,20105,LEVEL 2,Hazard Terms,50,0.2486943546381497,28,21,LBR
+Ethiopia,ethiopia,[Ethiopia] Ethiopia NDC 3.0 Final.pdf,Sub-Saharan Africa,Low income,9680,LEVEL 2,Hazard Terms,24,0.24793388429752067,29,45,ETH
+Somalia,somalia,[Somalia] Somalia NDC 3.0_Official_2025.pdf,Sub-Saharan Africa,Low income,17964,LEVEL 2,Hazard Terms,44,0.2449343130705856,30,25,SOM
+Moldova,moldova,[Moldova] MD_NDC_3.pdf,Europe & Central Asia,Upper middle income,44541,LEVEL 2,Hazard Terms,109,0.24471834938595902,31,4,MDA
+Liechtenstein,liechtenstein,[Liechtenstein] Liechtensteins Second NDC 2035_September 2025.pdf,Europe & Central Asia,High income,4913,LEVEL 2,Hazard Terms,12,0.24424994911459394,32,85,LIE
+Fiji,fiji,[Fiji] Fiji NDC3.0_Final.pdf,East Asia & Pacific,Upper middle income,24065,LEVEL 2,Hazard Terms,58,0.2410139206316227,33,19,FJI
+Zambia,zambia,[Zambia] NDC 3.0 COPY OF ZAMBIA'S ICTU FOR SUBMISSION.pdf,Sub-Saharan Africa,Lower middle income,11529,LEVEL 2,Hazard Terms,27,0.234192037470726,34,43,ZMB
+Barbados,barbados,[Barbados] Barbados Second NDC.pdf,Latin America & Caribbean,High income,19885,LEVEL 2,Hazard Terms,45,0.2263012320844858,35,24,BRB
+Azerbaijan,azerbaijan,[Azerbaijan] NDC 3.0 Report_Azerbaijan.pdf,Europe & Central Asia,Upper middle income,26301,LEVEL 2,Hazard Terms,55,0.20911752404851527,36,20,AZE
+Zimbabwe,zimbabwe,[Zimbabwe] Zimbabwe NDC3.0 Country Statement_2025_35.pdf,Sub-Saharan Africa,Lower middle income,8155,LEVEL 2,Hazard Terms,17,0.20846106683016555,37,79,ZWE
+New Zealand,new zealand,[New Zealand] New Zealand's second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6752,LEVEL 2,Hazard Terms,14,0.20734597156398105,38,83,NZL
+Australia,australia,[Australia] Australias Second NDC.pdf,East Asia & Pacific,High income,13592,LEVEL 2,Hazard Terms,28,0.20600353148911124,39,41,AUS
+Mongolia,mongolia,[Mongolia] Mongolia NDC3_0 under UNFCCC_PA FINAL.pdf,East Asia & Pacific,Upper middle income,14087,LEVEL 2,Hazard Terms,29,0.20586356214949955,40,39,MNG
+Iceland,iceland,[Iceland] Iceland's 2035 NDC.pdf,Europe & Central Asia,High income,4470,LEVEL 2,Hazard Terms,9,0.20134228187919462,41,89,ISL
+Bangladesh,bangladesh,[Bangladesh] Bangladesh Third Nationally Determined Contribution (NDC 3.0).pdf,South Asia,Lower middle income,24979,LEVEL 2,Hazard Terms,49,0.19616477841386765,42,22,BGD
+Samoa,samoa,[Samoa] Samoa NDC3.0_FINAL.pdf,East Asia & Pacific,Upper middle income,10709,LEVEL 2,Hazard Terms,21,0.1960967410589224,43,49,WSM
+Malaysia,malaysia,[Malaysia] Malaysia NDC 3.0 to UNFCCC 2025 final.pdf,East Asia & Pacific,Upper middle income,4106,LEVEL 2,Hazard Terms,8,0.1948368241597662,44,92,MYS
+Thailand,thailand,[Thailand] TH NDC 3.0.pdf,East Asia & Pacific,Upper middle income,4835,LEVEL 2,Hazard Terms,9,0.18614270941054809,45,89,THA
+Cambodia,cambodia,[Cambodia] Cambodia-NDC 3.0_0.pdf,East Asia & Pacific,Lower middle income,65443,LEVEL 2,Hazard Terms,119,0.18183762969301528,46,3,KHM
+Nepal,nepal,[Nepal] Nepal NDC3.pdf,South Asia,Lower middle income,12891,LEVEL 2,Hazard Terms,23,0.1784190520518191,47,48,NPL
+Saudi Arabia,saudi arabia,[Saudi Arabia] 2nd KSA NDC Document Final Document (28122025)_DNA.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,7947,LEVEL 2,Hazard Terms,14,0.17616710708443437,48,83,SAU
+Canada,canada,[Canada] Canada's 2035 Nationally Determined Contribution_ENc.pdf,North America,High income,60849,LEVEL 2,Hazard Terms,107,0.17584512481717038,49,5,CAN
+Jordan,jordan,[Jordan] Jordan NDC 3.0 Vision_final.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,4052,LEVEL 2,Hazard Terms,7,0.1727541954590326,50,95,JOR
+Nauru,nauru,[Nauru] Nauru NDC 3.pdf,East Asia & Pacific,High income,23948,LEVEL 2,Hazard Terms,41,0.17120427593118423,51,28,NRU
+Belize,belize,[Belize] BELIZE FINAL NDC 3.0.pdf,Latin America & Caribbean,Upper middle income,25271,LEVEL 2,Hazard Terms,43,0.17015551422579242,52,26,BLZ
+Tuvalu,tuvalu,[Tuvalu] Tuvalu NDC 3.0 - Secretariat Submission FINAL.pdf,East Asia & Pacific,Upper middle income,9497,LEVEL 2,Hazard Terms,16,0.16847425502790356,53,80,TUV
+Tonga,tonga,[Tonga] Tongas Third Nationally Determined Contribution.pdf,East Asia & Pacific,Upper middle income,22666,LEVEL 2,Hazard Terms,38,0.16765198976440485,54,32,TON
+Montenegro,montenegro,[Montenegro] 001_eng_NDC_Montenegro.pdf,Europe & Central Asia,Upper middle income,5391,LEVEL 2,Hazard Terms,9,0.1669449081803005,55,89,MNE
+Sierra Leone,sierra leone,[Sierra Leone] Sierra Leone NDC 3.0.pdf,Sub-Saharan Africa,Low income,54650,LEVEL 2,Hazard Terms,89,0.16285452881976212,56,7,SLE
+Solomon Islands,solomon islands,[Solomon Islands] Solomon Islands NDC 3.0.pdf,East Asia & Pacific,Lower middle income,14927,LEVEL 2,Hazard Terms,21,0.1406846653714745,57,49,SLB
+Bahamas,bahamas,[Bahamas] The Bahamas NDC 3.0.pdf,Latin America & Caribbean,High income,44826,LEVEL 2,Hazard Terms,63,0.1405434346138402,58,16,BHS
+United Kingdom of Great Britain and Northern Ireland,united kingdom of great britain and northern ireland,[United Kingdom] UK's 2035 NDC ICTU.pdf,Europe & Central Asia,High income,19622,LEVEL 2,Hazard Terms,26,0.13250433187238814,59,44,GBR
+Austria,austria,[Austria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,AUT
+Belgium,belgium,[Belgium] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,BEL
+Bulgaria,bulgaria,[Bulgaria] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,BGR
+Croatia,croatia,[Croatia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,HRV
+Cyprus,cyprus,[Cyprus] DK-2025-11-05 EU NDC (1).pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,CYP
+Czechia,czechia,[Czehia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,CZE
+Denmark,denmark,[Denmark] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,DNK
+Estonia,estonia,[Estonia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,EST
+Finland,finland,[Finland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,FIN
+France,france,[France] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,FRA
+Germany,germany,[Germany] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,DEU
+Greece,greece,[Greece] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,GRC
+Hungary,hungary,[Hungary] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,HUN
+Ireland,ireland,[Ireland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,IRL
+Italy,italy,[Italy] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,ITA
+Latvia,latvia,[Latvia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,LVA
+Lithuania,lithuania,[Lithuania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,LTU
+Luxembourg,luxembourg,[Luxembourg] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,LUX
+Malta,malta,[Malta] DK-2025-11-05 EU NDC.pdf,"Middle East, North Africa, Afghanistan & Pakistan",High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,MLT
+Netherlands,netherlands,[Netherlands] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,NLD
+Poland,poland,[Poland] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,POL
+Portugal,portugal,[Portugal] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,PRT
+Romania,romania,[Romania] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,ROU
+Slovakia,slovakia,[Slovakia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,SVK
+Slovenia,slovenia,[Slovenia] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,SVN
+Spain,spain,[Spain] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,ESP
+Sweden,sweden,[Sweden] DK-2025-11-05 EU NDC.pdf,Europe & Central Asia,High income,16780,LEVEL 2,Hazard Terms,20,0.11918951132300358,60,51,SWE
+Türkiye,turkiye,[Turkiye] The Second NDC of Türkiye.pdf,Europe & Central Asia,Upper middle income,6751,LEVEL 2,Hazard Terms,8,0.11850096282032292,87,92,TUR
+Vanuatu,vanuatu,[Vanuatu] Vanuatu NDC 3.0.pdf,East Asia & Pacific,Lower middle income,65743,LEVEL 2,Hazard Terms,74,0.11255951203930456,88,8,VUT
+Lesotho,lesotho,[Lesotho] Lesotho SECOND NDC.pdf,Sub-Saharan Africa,Lower middle income,31531,LEVEL 2,Hazard Terms,35,0.1110018711743998,89,33,LSO
+Seychelles,seychelles,[Seychelles] ICTU Update 2025 for Seychelles new NDC 3.0.pdf,Sub-Saharan Africa,High income,10010,LEVEL 2,Hazard Terms,11,0.10989010989010989,90,86,SYC
+Suriname,suriname,[Suriname] NDC 3 report Suriname 251104 Final Publication Version.pdf,Latin America & Caribbean,Upper middle income,60443,LEVEL 2,Hazard Terms,65,0.10753933457968665,91,14,SUR
+Indonesia,indonesia,[Indonesia] Indonesia_Second NDC_2025.10.24.pdf,East Asia & Pacific,Upper middle income,15403,LEVEL 2,Hazard Terms,15,0.09738362656625332,92,81,IDN
+Jamaica,jamaica,[Jamaica] Jamaica ICTU Final Report Sep19.pdf,Latin America & Caribbean,Upper middle income,6298,LEVEL 2,Hazard Terms,6,0.09526833915528739,93,96,JAM
+Brunei Darussalam,brunei darussalam,[Brunei Darussalam] [Final] Brunei Darussalam's Nationally Determined Contribution 3.0.pdf,East Asia & Pacific,High income,6518,LEVEL 2,Hazard Terms,6,0.09205277692543726,94,96,BRN
+Nigeria,nigeria,[Nigeria] Nigeria NDC 3.0 - Transimission Version 2.pdf,Sub-Saharan Africa,Lower middle income,23130,LEVEL 2,Hazard Terms,19,0.08214440121054907,95,78,NGA
+Trinidad and Tobago,trinidad and tobago,[Trinidad and Tobago] Trinidad and Tobago Second NDC.pdf,Latin America & Caribbean,High income,6431,LEVEL 2,Hazard Terms,5,0.07774840615767377,96,98,TTO
+Mozambique,mozambique,[Mozambique] Mozambique ProvNDC_ENG.pdf,Sub-Saharan Africa,Low income,6528,LEVEL 2,Hazard Terms,5,0.07659313725490197,97,98,MOZ
+Singapore,singapore,[Singapore] Singapore Second Nationally Determined Contribution.pdf,East Asia & Pacific,High income,6553,LEVEL 2,Hazard Terms,5,0.07630093087135663,98,98,SGP
+Saint Vincent and the Grenadines,saint vincent and the grenadines,[Saint Vincent and the Grenadines] Revised NDC 2.0 Final.pdf,Latin America & Caribbean,Upper middle income,13339,LEVEL 2,Hazard Terms,10,0.07496813854112003,99,88,VCT
+Palau,palau,[Palau] Palau Final Endorsed NDC 3.0.pdf,East Asia & Pacific,High income,21872,LEVEL 2,Hazard Terms,11,0.05029261155815655,100,86,PLW
+Tunisia,tunisia,[Tunisia] Republic Of Tunisia-Draft preleminary elements of the NDC 3.pdf,"Middle East, North Africa, Afghanistan & Pakistan",Lower middle income,2011,LEVEL 2,Hazard Terms,0,0,101,101,TUN
